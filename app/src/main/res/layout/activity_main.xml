@@ -54,7 +54,7 @@
         android:layout_marginRight="176dp"
         android:onClick="addNums"
         android:text="Add Numbers"
-        android:textAllCaps="false"
+        android:textAllCaps="true"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
