@@ -70,7 +70,7 @@
         android:layout_marginRight="176dp"
         android:onClick="addNums"
         android:text="Add Numbers"
-        android:textAllCaps="true"
+        android:textAllCaps="false"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.553"
         app:layout_constraintStart_toStartOf="parent"
