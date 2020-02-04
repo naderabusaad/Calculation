@@ -51,7 +51,7 @@
         android:layout_marginTop="128dp"
         android:layout_marginBottom="15dp"
         android:gravity="center_vertical"
-        android:text="First Num :"
+        android:text="First Num:"
         android:textColor="#132783"
         android:textSize="24sp"
         app:layout_constraintBottom_toTopOf="@+id/SNum"
